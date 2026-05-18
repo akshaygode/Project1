@@ -1,0 +1,65 @@
+html
+Css
+Js
+
+
+Mean Mern Java Full Stack
+
+Web Dev
+>> Building/Developers Team
+>> Testing Team (Manual Testers/Automated Testers)
+>> Hosting Team (Devops Team)
+>> Maintenance Team/Support Team
+
+SDLC (Software Development Life Cycle):
+>> Waterfall Model
+>> Agile Model
+>>Spiral Model
+>>Iterative Model
+>>Incremental Model
+>> V Shaped Model
+>> RAD (Rapid Application Development) Model
+
+URL (Uniform Resource Locator)
+
+https://www.instagram.com/
+
+
+https: Protocol
+rohanAcademy: Server/Domain Name
+education : Sub-Domain
+.edu :TLD (Top Level Domain)
+FullStack: Path/Location
+
+Protocol:
+>> Set of rules/instructions
+>> http - Hyper Text Transfer Protocol
+https - Hyper Text Transfer Protocol Secure
+tcp - Transmission Control Protocol (Handshake signal in )
+udp - User Datagram Protocol (Handshake signal)
+smtp - Simple Mail Transfer Protocol ()
+ftp - File Transfer Protocol 
+ip - Internet protocol (ipv4 & ipv6)
+
+
+>> Client/Web Page ----------(uName & uPwd)-------> Instagram server
+>>SSL (Secure Socket Layer) Certification
+
+Server/Domain Name:
+
+>>Unique Identifier
+>> Eg. Google
+
+Sub-Domain Name:
+
+>>google meet
+>>google maps
+>>google drive
+>>Gmail
+>googlePhotos
+>>g chrome,calendar,gpay,gfiles
+
+Amazon Shopping
+
+>>AWS
+>>

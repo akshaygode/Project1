@@ -1,0 +1,38 @@
+Git >>Version Control
+
+whatsapp>v1,v2,v3,v4
+new v5
+
+It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes (WD Changes)
+>> Recovery
+>> 
+Download link
+
+GitHub
+Bitbucket
+GitLabs
+GitPod
+
+
+check the path of the curent folder click all and type CMD
+For 1st Time Need to configure github in our System
+git config --global user.name "akshaygode"
+git config --global user.email "godeakshay4670@gmail.com"
+
+git config --global color.ui auto
+
+mandatory commands
+>> git init 
+>> git remote add origin https://github.com/akshaygode/Project1.git 
+
+
+git pull origin main
+
+git status
+
+git add .
+git status
+git commit m "Commit Message"
+git push
